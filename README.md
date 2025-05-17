@@ -18,15 +18,15 @@ This project uses machine learning models to predict the outcome of NFL games �
 ```bash
 nfl-game-prediction/
 ├── nfl_game_prediction.ipynb        # Main notebook with EDA, modeling, evaluation
-├── nfl_game_prediction.html         # html export for quick viewing
+├── nfl_game_prediction.html         # HTML export for quick viewing
 ├── requirements.txt                 # Dependencies list
 ├── README.md                        # This file
-├── images/            
-|   ├── Data_Visualization.png       # shows strong correlation of passing feature for win/loss
-|   ├── Feature_Importance.png       # shows strong features and weak features for the model 
-|   ├── Roc_Curve.png                # ROC curves of various models
-│   └── Correlation_of_features.png  # shows correlation of features in the dataset
-```
+├── images/
+│   ├── Data_Visualization.png       # EDA Visualization of different features 
+│   ├── Feature_Importance.png       # Shows strong and weak features 
+│   ├── Roc_Curve.png                # ROC curves of various models
+│   └── Correlation_of_features.png  # Shows correlation of features in dataset
+``` 
 
 📊 Dataset
 Source: nflfastR [dataset](https://github.com/nflverse/nflverse-pbp)
