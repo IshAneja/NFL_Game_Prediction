@@ -61,7 +61,7 @@ Source: nflfastR [dataset](https://github.com/nflverse/nflverse-pbp)
 
 1. Clone the repository:
 ```sh 
-git clone https://github.com/yourusername/nfl-game-prediction.git
+git clone https://github.com/IshAneja/NFL_Game_Prediction.git
 cd nfl-game-prediction
 ```
 
@@ -71,7 +71,7 @@ pip install -r requirements.txt
 ```
 3. Run the notebook:
 
-Open [nfl_game_prediction.ipynb](https://) in Jupyter or VS Code.
+Open [nfl_game_prediction.ipynb](https://github.com/IshAneja/NFL_Game_Prediction/blob/main/NFL%20Game%20Prediction.ipynb) in Jupyter or VS Code.
 
 📌 To-Do
 - Add more seasons or player-level stats for better generalization
@@ -81,8 +81,8 @@ Open [nfl_game_prediction.ipynb](https://) in Jupyter or VS Code.
 👤 Author
 Ish Aneja
 📫 Ish.Aneja@outlook.com
-🔗 [LinkedIn](https://)
-📘 [Portfolio](https://)
+🔗 [LinkedIn](https://https://www.linkedin.com/in/ish-aneja/)
+📘 [Portfolio](https://ishaneja.github.io/)
 
 📄 License
 This project is open-source under the MIT License.
