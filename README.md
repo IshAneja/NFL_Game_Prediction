@@ -62,7 +62,7 @@ Source: nflfastR [dataset](https://github.com/nflverse/nflverse-pbp)
 1. Clone the repository:
 ```sh 
 git clone https://github.com/IshAneja/NFL_Game_Prediction.git
-cd nfl-game-prediction
+cd NFL_Game_Prediction
 ```
 
 2. Install dependencies:
