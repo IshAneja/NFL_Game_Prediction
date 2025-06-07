@@ -80,7 +80,7 @@ Open [nfl_game_prediction.ipynb](https://github.com/IshAneja/NFL_Game_Prediction
 
 👤 Author
 Ish Aneja
-📫 Ish.Aneja@outlook.com
+📫 [Ish.Aneja@outlook.com](mailto:Ish.aneja@outlook.com)
 🔗 [LinkedIn](https://https://www.linkedin.com/in/ish-aneja/)
 📘 [Portfolio](https://ishaneja.github.io/)
 
